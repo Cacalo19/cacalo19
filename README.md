@@ -5,7 +5,10 @@
 - Atualmente, estou participando do bootcamp Microsoft Copilot AI. Após o término, tenho interesse em fazer outros bootcamps, como o de Blockchain Developer com Solidity da Binance, Data Analytics com Power BI da Sysvision e Desenvolvimento Java com IA da GFT.”
 
 - No meu momento de lazer, gosto de jogar 🎮 e assistir séries 📺.
- 
+
+
+
+![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
