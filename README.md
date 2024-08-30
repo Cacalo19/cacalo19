@@ -2,7 +2,7 @@
 ### Olá! Eu sou o Carlos Mirapalheta Feitoza 👋
 
 - Sou apaixonado por tecnologia. Ainda quando criança, comecei a fazer cursos básicos de informática, hardware e software. Depois, fiz o curso Técnico em Programação de Jogos Digitais. No entanto, parei por alguns anos. Agora, estou retomando os estudos com o objetivo de adquirir conhecimento e entrar no mercado de trabalho.
-- Atualmente, estou participando do bootcamp Microsoft Copilot AI. Após o término, tenho interesse em fazer outros bootcamps, como o de Blockchain Developer com Solidity da Binance, Data Analytics com Power BI da Sysvision e Desenvolvimento Java com IA da GFT.”
+- Estudante de Análise e Desenvolvimento de Sistemas com Técnico em Programação de Jogos Digitais. Recentemente participei do meu primeiro bootcamp Microsoft Copilot IA que alimentou minha curiosidade pela Inteligência Artificial. Estou ansioso para explorar novas possibilidades
 
 - No meu momento de lazer, gosto de jogar 🎮 e assistir séries 📺.
 
