@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o Carlos Mirapalheta Feitoza 👋
 
-- Passionado por tecnologia e desenvolvimento de jogos, sou estudante de Análise e Desenvolvimento de Sistemas com formação técnica em programação de jogos digitais. A experiência no bootcamp Microsoft Copilot IA despertou meu interesse pela Inteligência Artificial. Estou ansioso para explorar as infinitas possibilidades dessa área.
+- Apaixonado por tecnologia e desenvolvimento de jogos, sou estudante de Análise e Desenvolvimento de Sistemas com formação técnica em programação de jogos digitais. A experiência no bootcamp Microsoft Copilot IA despertou meu interesse pela Inteligência Artificial. Estou ansioso para explorar as infinitas possibilidades dessa área.
 
 - No meu momento de lazer, gosto de jogar 🎮 e assistir séries 📺.
 
