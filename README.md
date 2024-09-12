@@ -9,6 +9,8 @@
 
 ![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacalo19&hide_progress=true)
+
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
@@ -40,7 +42,7 @@ Conecte-se comigo.
 <div> 
     
 <a href="https://www.linkedin.com/in/carlos-mirapalheta-feitoza-620734134/" target="_blank"><img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
-<a href="https://x.com/Carlosfeitozaaa" target="_blank"><img align="center" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" target="_blank"></a> 
+<a href="https://x.com/Carlosfeitozaaa" target="_blank"><img align="center" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" target="_blank"></a> 
   
 </div>
 
