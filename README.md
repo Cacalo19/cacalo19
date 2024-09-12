@@ -5,12 +5,6 @@
 
 - No meu momento de lazer, gosto de jogar 🎮 e assistir séries 📺.
 
-
-
-![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacalo19&hide_progress=true&theme=dark)
-
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
@@ -46,3 +40,7 @@ Conecte-se comigo.
   
 </div>
 
+##
+![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacalo19&layout=donut&theme=dark)](https://github.com/Cacalo19/github-readme-stats)
