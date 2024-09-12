@@ -8,22 +8,39 @@
 
 
 ![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
+
 ## Conhecimentos
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /> 
     <img align="center" alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" /> 
     <img align="center" alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" /> 
-    <img align="center" alt="Windows" src="    https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> 
-    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=whitee" /> 
-    <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> 
-    <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" /> 
+    
 
 </div><br/>
 
+##
 
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" 
+    height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
+    <img align="center" alt="Python" 
+    height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /> 
+    <img align="center" alt="Python" 
+    height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /> 
+   <img align="center" alt="Python" 
+    height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" /> 
+    
+
+</div><br/>
+
+##
 Conecte-se comigo.
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mirapalheta-feitoza-620734134/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Carlosfeitozaaa)
+<div> 
+    
+<a href="https://www.linkedin.com/in/carlos-mirapalheta-feitoza-620734134/" target="_blank"><img align="center" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"></a>
+<a href="https://x.com/Carlosfeitozaaa" target="_blank"><img align="center" height="60" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" target="_blank"></a> 
+  
+</div>
 
