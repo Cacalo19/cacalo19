@@ -9,7 +9,7 @@
 
 ![Cacalo19 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cacalo19&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacalo19&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cacalo19&hide_progress=true&theme=dark)
 
 ## Conhecimentos
 
